@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidFundamentos</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">Apenas números, senão o mundo acaba.</string>
+</resources>
